@@ -3,6 +3,7 @@
 ## 1. Project Overview
 
 AGRITRADE is a digital marketplace platform connecting farmers and retailers for crop trading. It streamlines bidding, ordering, payments, and notifications, ensuring transparency and efficiency in agricultural commerce.
+[webiste link](https://krishi-setuu.vercel.app/)
 
 ## 2. Architecture
 
